@@ -3,7 +3,7 @@
 ### Sobre mim
 - Atualmente, estou focado em desenvolver negócios para empresas e micro-empresas, usando minhas habilidades em React, Laravel e outras habilidades web que eu tenho.
 
-- Eu sempre busco novos desafios para aumentar os meus conhecimentos e habilidades que eu tenho.
+- Eu sempre busco novos desafios para aumentar os meus conhecimentos e habilidades.
 
 ### Habilidades 
 - JavaScript: Desenvolvimento Front-end e Back-end com Javascript.
