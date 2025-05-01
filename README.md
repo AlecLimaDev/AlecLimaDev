@@ -1,16 +1,20 @@
-## Hi there 👋
+## Oi, meu nome é Alec 👋
 
-<!--
-**AlecLimaDev/AlecLimaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+- Atualmente, estou focado em desenvolver negócios para empresas e micro-empresas, usando minhas habilidades em React, Laravel e outras habilidades web que eu tenho.
 
-Here are some ideas to get you started:
+- Eu sempre busco novos desafios para aumentar os meus conhecimentos e habilidades que eu tenho.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades 
+- JavaScript: Desenvolvimento Front-end e Back-end com Javascript.
+- React: Criação dinâmica e interfaces responsivas.
+- Laravel: Aplicações Web em Laravel.
+- PHP: Aplicações Web em PHP.
+
+### Interesses Pessoais
+- Estudo: Gosto de aprender e compartilhar.
+- Marketing: Sou apaixonado por marketing, estudando sempre o mercado e de olho sempre em como ele é aplicado.
+
+### Como entrar em contato comigo
+- Gmail: aleclimadev@gmail.com
+
