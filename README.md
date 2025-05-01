@@ -13,7 +13,7 @@
 
 ### Interesses Pessoais
 - Estudo: Gosto de aprender e compartilhar.
-- Marketing: Sou apaixonado por marketing, estudando sempre o mercado e de olho sempre em como ele é aplicado.
+- Marketing: Sou apaixonado por marketing, estudando sempre o mercado e de olho em como ele é aplicado.
 
 ### Como entrar em contato comigo
 - Gmail: aleclimadev@gmail.com
